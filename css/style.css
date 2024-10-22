@@ -11,22 +11,13 @@
 
 h1{
     margin: 10px;
-    background-color: rgb(255, 255, 255);
-    border: 4px inset rgb(255, 230, 0);
     padding: 0px;
     max-width: max-content;
 }
 
-.img-1 {
+.mpSan {
+  align-items: center;
   
-}
-h2{
-    margin: 5px;
-    background-color: gainsboro;
-    padding: 5px;
-    border: 1px solid black;
-    max-width: max-content;
-    border-radius: 20px;
 }
 .contenedor{
     margin: 5px;
